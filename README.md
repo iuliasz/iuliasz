@@ -26,7 +26,7 @@
 ## ⚡ Hardware & Engineering Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Verilog_logo.svg" width="50"/>
+<img src="https://zhangyiant.gallerycdn.vsassets.io/extensions/zhangyiant/vscode-verilog/1.0.13/1563063877763/Microsoft.VisualStudio.Services.Icons.Default" width="50"/>
 </p>
 
 ## 🖥️ Operating Systems

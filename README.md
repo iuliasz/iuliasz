@@ -1,3 +1,9 @@
+# 📝 About Me
+
+Computer Science student passionate about programming and problem-solving, with interests in software development, systems, and learning new technologies while building useful projects.
+
+
+
 # 💻 Tech Stack
 
 ## 🧠 Programming Languages

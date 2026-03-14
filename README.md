@@ -1,4 +1,4 @@
-# 📝 About Me
+# 📝 About Me  
 
 Computer Science student passionate about programming and problem-solving, with interests in software development, systems, and learning new technologies while building useful projects.
 
@@ -6,38 +6,65 @@ Computer Science student passionate about programming and problem-solving, with 
 
 # 💻 Tech Stack
 
-## 🧠 Programming Languages
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<h3>🧠 Programming Languages</h3>
+<p align="center">
+
+![C](https://img.shields.io/badge/C-3A73C4?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0B4F8A?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </p>
 
-## 🌐 Frontend Development
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+
+
+<h3>🌐 Frontend Development</h3> 
+<p align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 </p>
 
-## 🗄️ Databases
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+
+<h3>🗄️ Databases</h3>
+<p align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 </p>
 
-## 🤖 Machine Learning / AI
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+
+
+<h3>🤖 Machine Learning / AI</h3>
+<p align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 </p>
 
-## ⚡ Hardware & Engineering Tools
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
-<img src="https://zhangyiant.gallerycdn.vsassets.io/extensions/zhangyiant/vscode-verilog/1.0.13/1563063877763/Microsoft.VisualStudio.Services.Icons.Default" width="50"/>
+
+
+<h3>⚡ Hardware & Engineering Tools</h3>
+<p align="center">
+
+![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-808080?style=for-the-badge)
+
 </p>
 
-## 🖥️ Operating Systems
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+
+
+<h3>🖥️ Operating Systems</h3>
+<p align="center">
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </p>
+
+<img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Pixel-Art/spring%20day.gif" width="1000"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>

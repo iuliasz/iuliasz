@@ -2,8 +2,6 @@
 
 Computer Science student passionate about programming and problem-solving, with interests in software development, systems, and learning new technologies while building useful projects.
 
-
-
 # 💻 Tech Stack
 
 <h3>🧠 Programming Languages</h3>
@@ -65,6 +63,4 @@ Computer Science student passionate about programming and problem-solving, with 
 </p>
 
 <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Pixel-Art/spring%20day.gif" width="1000"/>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+

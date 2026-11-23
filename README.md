@@ -1,6 +1,6 @@
 # 📝 About Me  
 
-Computer Science student passionate about programming and problem-solving, with interests in software development, systems, and learning new technologies while building useful projects.
+Computer Science and Engineering student passionate about programming and problem-solving, with interests in software development, systems, and learning new technologies while building useful projects.
 
 # 💻 Tech Stack
 
@@ -11,6 +11,8 @@ Computer Science student passionate about programming and problem-solving, with 
 ![C++](https://img.shields.io/badge/C++-0B4F8A?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </p>
@@ -63,4 +65,3 @@ Computer Science student passionate about programming and problem-solving, with 
 </p>
 
 <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Pixel-Art/spring%20day.gif" width="1000"/>
-
